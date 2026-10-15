@@ -2,3 +2,4 @@ wlzbi
 rich
 requests
 fake-useragent
+python-telegram-bot
